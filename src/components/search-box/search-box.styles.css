@@ -1,4 +1,4 @@
-.search {
+.search-box {
   -webkit-appearance: none;
   border: none;
   outline: none;
@@ -11,16 +11,16 @@
 ::-webkit-input-placeholder {
   /* Edge */
   font-size: 1.2rem;
-  color: red;
+  color: black;
 }
 
 :-ms-input-placeholder {
   /* Internet Explorer 10-11 */
   font-size: 1.2rem;
-  color: red;
+  color: black;
 }
 
 ::placeholder {
   font-size: 1.2rem;
-  color: red;
+  color: black;
 }
